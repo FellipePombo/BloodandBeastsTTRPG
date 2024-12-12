@@ -100,7 +100,7 @@ Is rolled every time a shot is fired.
 
 ### Blood Communion Level (BC)
 Determines your capacity to heal others.
-Blood Communion Level = 1d10 + BLT per 5 HP sacrificed, number of d10 cannot be higher than BLT.
+Blood Communion Level = (1d10 + BLT) per 5 HP sacrificed, number of d10 cannot be higher than BLT.
 When you wish to give communion to a fellow hunter, you shall sacrifice 5 HP per each d10 you wish to roll. The sum of the rolls will result in the amount of HP healed from your colleague, however you can only roll a maximum of BLTd10 per round. Your hunter will experience the effects of Blood Drunkeness. 
 
 ### Blood Drunkeness (BD)
