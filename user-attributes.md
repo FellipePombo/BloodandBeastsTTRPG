@@ -1,4 +1,4 @@
-<img src="./assets/images/thehunterbg.jpg" style="position: absolute; top: 0; left: 0; width: auto; height: 100%; z-index: -1;">
+<link rel="stylesheet" href="./assets/css/thehunterpage.css">
 
 # Attributes
 
