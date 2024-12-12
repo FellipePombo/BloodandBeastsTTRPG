@@ -1,4 +1,4 @@
-### Attributes
+# Attributes
 
 ## Vitality (VIT)
 This statistic represents your will to live and keep fighting despite injuries.
@@ -10,7 +10,7 @@ Level 3: expected of veteran hunters or individuals who have had to fight to sta
 
 Level 5: places the hunter above the rest as they are determined to see the night through alive.
 
-# Health Points (HP)
+### Health Points (HP)
 Represents your current will to keep going in that moment.
 Health Points (HP) = Vitality * 10
 HP are lost when you suffer damage, they can be regained through healing.
@@ -26,7 +26,7 @@ Level 3: the physical and mental acuity of a seasoned hunter or survivor, skille
 
 Level 5: peak form of human strength and presence and individual that through the hardships of blood and truth managed to find the buried inner strength to endure it all. 
 
-# Stamina Points (SP)
+### Stamina Points (SP)
 Allows you to outperform yourself, performing extra actions or special actions in battle. 
 Stamina Points = Endurance * 3
 Most hunters can only use one Stamina Point per round, not being able to use it again in Battle after all points are spent. Once the foe is killed and the Battle is finished, all Stamina Points are replenished.
@@ -42,7 +42,7 @@ Level 3: a skilled marksman or fencer.
 
 Level 5: peak marksmanship and excellent combat prowess.
 
-# Hit Roll:
+### Hit Roll:
 Hit Roll = (Accuracy)d10
 
 
@@ -56,12 +56,12 @@ Level 3: capacity to cut the proper artheries and joints in order to incapacitat
 
 Level 5: every strike is planned, a lethal movement heading towards the inevitable end of the beast being dismantled.
 
-# Initiative (INIT)
+### Initiative (INIT)
 Determines who is going first in Battle based on ones reaction speed. 
 Initiative = (SKL + END)d10
 All hunters roll initiative in the beggining of a Battle.
 
-# Visceral Damage (VISC)
+### Visceral Damage (VISC)
 When a foe has their guard broken, the hunter can roll skill to determine the damage done.
 Visceral Damage = (SKL)d10 x4
 
@@ -77,7 +77,7 @@ Level 3: allows the hunter to move many pounds of steel quickly while dealing gr
 Level 5: a strike performed by a hunter with the proper weapon and this level of strength will crush even the strongest beast.
 
 
-# Guard Level (GUARD)
+### Guard Level (GUARD)
 Determines your capacity to maintain your fighting stance in Battle. 
 Guard Points = Class Initial Value + STR value per level
 If a foe does more damage than your GUARD, your guard will be broken, leading you suscetible to double damage or a visceral attack.
@@ -93,17 +93,17 @@ Level 3: your blood could make a man sick, so intoxicating.
 
 Level 5: descendant of the ancient pthumerians, or maybe the loran, your blood is old and unique, a one of a kind, keep it a secret.
 
-# Ranged Damage (RD)
+### Ranged Damage (RD)
 Defines the strength of your blood infused quicksilver bullets. 
 Ranged Damage = (BLT)d10
 Is rolled every time a shot is fired. 
 
-# Blood Communion Level (BC)
+### Blood Communion Level (BC)
 Determines your capacity to heal others.
 Blood Communion Level = 1d10 + BLT per 5 HP sacrificed, number of d10 cannot be higher than BLT.
 When you wish to give communion to a fellow hunter, you shall sacrifice 5 HP per each d10 you wish to roll. The sum of the rolls will result in the amount of HP healed from your colleague, however you can only roll a maximum of BLTd10 per round. Your hunter will experience the effects of Blood Drunkeness. 
 
-# Blood Drunkeness (BD)
+### Blood Drunkeness (BD)
 Determines your resistance to the inebriating quality of blood and the thirsting beast inside.
 Blood Drunkeness = (BLT from the blood - BLT from the hunter)d10 
 The hunter must roll for Blood Drunkeness with the amount of d10 equal to the difference of the bloodtinge from the blood used to heal and the bloodtinge of the hunter himself. After this, the hunter must perform a Sanity Roll, should the Sanity Roll be inferior to the Blood Drunkeness Roll, the hunter will be taken by the Beast for one round and they will receive one Beast Point.
@@ -118,12 +118,12 @@ Level 3: a scholar who knows many secrets, careful for they shall haunt you.
 
 Level 5: you see more than anyone should, may the great ones have mercy on your mind.
 
-# Sanity Level (SL)
+### Sanity Level (SL)
 Determines your capacity to resist Blood Drunkeness and the Eldritch Truth.
 Sanity Level = (ARC + END)d10
 Once exposed to the eldritch truth or the intoxication of the blood, a hunter must do a Sanity Roll. 
 
-# Insight (IS)
+### Insight (IS)
 Insight = 0/10
 
 When exposed to the eldritch truth, you gain unholy insight into the Kosm.
@@ -146,12 +146,12 @@ Level 3: the blood calls to you, it makes all the pain go away, more blood.
 
 Level 5: there is only blood and where is blood are the beasts, scurrying away shyly to drink it out of the corpse filled floor, fear the old blood.
 
-# Beast Damage (BD)
+### Beast Damage (BD)
 Once the hunter has any Beast Point, they can willingly choose to do Beast Damage instead of the regular type of damage from their weapon, by allowing the beast to push through temporarily. This however triggers a Beast Roll the hunter must resist, lest they lose control.
 
 Beast Damage = (BTH)d10 + BTH
 
-# Beast Points (BP)
+### Beast Points (BP)
 Beast Points = 0/10
 
 Most hunters start with no Beast Points, but as the beast creeps in, they turn. 
