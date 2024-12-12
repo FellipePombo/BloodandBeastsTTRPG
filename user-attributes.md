@@ -1,4 +1,5 @@
-<div id=thehunterpagewrap>
+<img src="./assets/images/thehunterbg.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;">
+
 # Attributes
 
 ## Vitality (VIT) ![Vitality Icon](assets/images/vitality.jpg)
@@ -166,6 +167,3 @@ Beast Roll = (Beast Points)d10
 Afterwards, they must resist the Beast Roll with a Sanity Roll, should the Sanity Roll be inferior, the Beast will take over for one round and another Beast Point will be added.
 
 If a hunter gains a Beast Point with their Insight Meter empty, their Insight Maximum will be permanently reduced by 1.
-
-
-</div>
