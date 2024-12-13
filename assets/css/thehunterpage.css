@@ -1,13 +1,16 @@
 
 body{
-    background:
-    linear-gradient(
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
-    ), url(../images/bg1.jpeg);
+    background: url(../images/bg1.jpeg);
     background-attachment: fixed;
     color: #fff;
     height: 100%;
     display: table-cell;
     vertical-align: middle;
+}
+
+blockquote{
+    background-color: rgba(0,0,0,0.75);
+    display:block;
+    align-self: center;
+    justify-content: center;
 }
