@@ -2,6 +2,8 @@
 
 [The Struggle](battle-tips.md)
 
+[Hunter`s Workshop](equipment.md)
+
 
 
 
