@@ -3,9 +3,9 @@
   <img src="assets/images/logo.png">
 </a>
 
->[The Hunter](user-attributes.md)
->[The Struggle](battle-tips.md)
->[Hunter`s Workshop](equipment.md)
+>[The Hunter](user-attributes.md) <br><br>
+>[The Struggle](battle-tips.md)  <br><br>
+>[Hunter`s Workshop](equipment.md) <br><br>
 
 
 
