@@ -108,13 +108,13 @@ Is rolled every time a shot is fired.
 
 ### Blood Communion Level (BC)
 Determines your capacity to heal others.
-Blood Communion Level = (1d10 + BLT) per 5 HP sacrificed, number of d10 cannot be higher than BLT.
-When you wish to give communion to a fellow hunter, you shall sacrifice 5 HP per each d10 you wish to roll. The sum of the rolls will result in the amount of HP healed from your colleague, however you can only roll a maximum of BLTd10 per round. Your hunter will experience the effects of Blood Drunkeness. 
+Blood Communion Level = (1d10 + BLT) per 5 HP sacrificed..
+When you wish to give communion to a fellow hunter, you shall sacrifice 5 HP per each d10 you wish to roll. The sum of the rolls will result in the amount of HP healed from your colleague, however you can only roll a maximum of BLT rolls per round. The hunter healed will experience the effects of Blood Drunkeness. 
 
 ### Blood Drunkeness (BD)
 Determines your resistance to the inebriating quality of blood and the thirsting beast inside.
-Blood Drunkeness = (BLT from the blood - BLT from the hunter)d10 
-The hunter must roll for Blood Drunkeness with the amount of d10 equal to the difference of the bloodtinge from the blood used to heal and the bloodtinge of the hunter himself. After this, the hunter must perform a Sanity Roll, should the Sanity Roll be inferior to the Blood Drunkeness Roll, the hunter will be taken by the Beast for one round and they will receive one Beast Point.
+Blood Drunkeness = (BLT from the blood received - BLT from the hunter healed)d10 
+The hunter must roll for Blood Drunkeness with the amount of d10 equal to the difference of the bloodtinge from the blood received and the bloodtinge of the hunter who partook in communion. After this, the hunter must perform a Sanity Roll, should the Sanity Roll be inferior to the Blood Drunkeness Roll, the hunter will be taken by the Beast for one round and they will receive one Beast Point.
 
 ## Arcane (ARC) ![Arcane Icon](assets/images/arcane.jpg)
 This statistic represents your understanding of the eldritch truth and the nature of the cosmos. How many eyes on the insight does the hunter possess. 
@@ -130,6 +130,7 @@ Level 5: you see more than anyone should, may the great ones have mercy on your 
 Determines your capacity to resist Blood Drunkeness and the Eldritch Truth.
 Sanity Level = (ARC + END)d10
 Once exposed to the eldritch truth or the intoxication of the blood, a hunter must do a Sanity Roll. 
+A Sanity Roll is successful if it is equal or higher than the Roll being resisted.
 
 ### Insight (IS) ![Insight Icon](assets/images/insight.jpg)
 Insight = 0/10
