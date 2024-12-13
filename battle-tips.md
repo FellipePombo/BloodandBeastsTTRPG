@@ -1,3 +1,7 @@
+<a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
+  <img src="assets/images/logo.png">
+</a>
+
 # Battle
 Once a hunter engages with a foe or a foe engages with a hunter, battle has commenced.
 
