@@ -1,3 +1,7 @@
+<a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
+  <img src="/images/logo.png" alt="Logo">
+</a>
+
 # Buffs
 Buffs add special temporary effects to the hunter`s attacks. 
 

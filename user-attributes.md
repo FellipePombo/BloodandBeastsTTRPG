@@ -1,4 +1,7 @@
 <link rel="stylesheet" href="./assets/css/thehunterpage.css">
+<a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
+  <img src="/images/logo.png" alt="Logo">
+</a>
 
 >## Attributes
 >### Vitality (VIT) ![Vitality Icon](assets/images/vitality.jpg)
