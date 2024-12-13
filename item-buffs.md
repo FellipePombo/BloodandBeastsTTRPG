@@ -1,5 +1,5 @@
 <a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
-  <img src="/images/logo.png" alt="Logo">
+  <img src="assets/images/logo.png">
 </a>
 
 # Buffs
