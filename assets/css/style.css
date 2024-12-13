@@ -1,8 +1,14 @@
 h1 a{
-    background: url(../images/logo.png) no-repeat left top;
+    text-indent: -9999px;
 }
 
 h1 a:visited{
-    background: url(../images/logo.png) no-repeat left top;
+    text-indent: -9999px;
+}
+
+h1{
+    background-image: url(../images/logo.png);
+    background-size: cover;
+
 }
 
