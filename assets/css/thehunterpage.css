@@ -3,9 +3,13 @@ html{
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
+    height: 100%;
 }
 
 body{
     background-color:rgba(0,0,0,0.75);
     color: #fff;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
 }
