@@ -50,7 +50,7 @@ Hit Roll = (Accuracy)d10
 
 ## Skill (SKL) ![Skill Icon](assets/images/skill.jpg)
 This statistic represents your hunter`s skill in battle, specially when using skill-based weapons. It also defines your reaction time.
-Attributes influenced by Skill: Initiative and Visceral Damage.
+Attributes influenced by Skill: Initiative, Visceral Damage and Defense.
 
 Level 1: the skill it takes to cut a piece of meat to grill.
 
@@ -70,7 +70,7 @@ Visceral Damage = (SKL)d10 x4
 
 ## Strength (STR) ![Strength Icon](assets/images/strength.jpg)
 This statistic represents your hunter`s physical strength and muscle tenacity, allowing him to wield abnormally heavy or cumbersome weapons with ease.
-Attributes influenced by Strength: Guard Level
+Attributes influenced by Strength: Guard Level and Defense
 
 Level 1: the strength necessary to carry a pack of beans.
 
@@ -78,6 +78,12 @@ Level 3: allows the hunter to move many pounds of steel quickly while dealing gr
 
 Level 5: a strike performed by a hunter with the proper weapon and this level of strength will crush even the strongest beast.
 
+### Defense (DEF)
+This determines how hard you are to hit, be it because of how nimble you are or how resistance and tough you are. 
+
+Defense = Initial Class Value + max(STR,SKL) per level.
+
+Enemies must get a ACC roll equal or higher than your defense in order to hit you. Some attacks from enemies can have ACC modifiers, making them harder to avoid.
 
 ### Guard Level (GUARD)
 Determines your capacity to maintain your fighting stance in Battle. 
@@ -151,7 +157,7 @@ Level 5: there is only blood and where is blood are the beasts, scurrying away s
 ### Beast Damage (BD)
 Once the hunter has any Beast Point, they can willingly choose to do Beast Damage instead of the regular type of damage from their weapon, by allowing the beast to push through temporarily. This however triggers a Beast Roll the hunter must resist, lest they lose control.
 
-Beast Damage = (BTH)d10 + BTH
+Beast Damage = Attack Damage + (BTH)d10
 
 ### Beast Points (BP)
 Beast Points = 0/10

@@ -143,6 +143,15 @@ Hunters can spend 1 Stamina Points to Rally. After a hunter is hit and suffers d
 
  Some effects can increase rally potential.
 
+### Dodge
+When a hunter is about to get hit, they can spend a Stamina Point to attempt a Dodge. 
+
+A Dodge increases your Defense attribute for the incoming attack. 
+
+Dodge Roll = (SKL)d10
+
+After the roll, your defense for the incoming attack will be DEF + Dodge Roll.
+
 
 
 
