@@ -1,3 +1,8 @@
+<a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
+  <img src="assets/images/logo.png">
+</a>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 >## Hunter Origins
 >Determines your hunter background before being recruted by the Paleblood Hunters.
 >### Blood Addled Citizen
