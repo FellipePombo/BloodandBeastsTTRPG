@@ -1,4 +1,5 @@
 title: Blood And Beasts
+description:
 width: 1080
 plugins:
   - jekyll-relative-links
