@@ -25,7 +25,8 @@ A hunter can use a movement action to move about 6 meters in distance.
 Use Throwables (Molotovs, Pungent Blood Cocktail) <br><br>
 Use Vial of Blood<br><br>
 Charge Strong Attack<br><br>
-Parry
+Parry <br><br>
+Transform Trick Weapon
 >#### Free Action
 >A highly accessible action from any point in engaged combat.
 >##### Examples of Free Actions:
@@ -71,10 +72,10 @@ However once a hunter starts charging his strong attack, the attack must be perf
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
 This movement action counts as a damageless ranged attack, requiring an ACC roll to hit. The Parry Difficulty in enemies however tends to be different from the sheer Hit Difficulty, sometimes being higher to achieve. <br><br>
 If the hunter`s ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack.
+>#### Transform Trick Weapon
+>The hunter must use a movement action to transform their weapon, sometimes specific attacks can have the Transform effect, which transforms your weapon after the attack is performed. 
 >#### Communication
 >Any form of communication is allowed for free during Battle.
->#### Transform Trick Weapon
->The hunter can transform their weapon at will during Battle, unless specified otherwise by the weapons instruction. 
 >#### Perform Visceral Attack
 >If the hunter is at close range (less than 6 meters away from his foe), he can perform a visceral on any enemy that has their guard broken. <br><br>
 This will however cease the guard break, including the one round stun that it inflicts on the enemy, while also immediately ending the hunters round. 

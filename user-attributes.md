@@ -4,7 +4,7 @@
 
 
 >## Attributes
->### Vitality (VIT) ![Vitality Icon](assets/images/vitality.jpg)
+>### Vitality (VIT) ![Vitality Icon](assets/images/attributes/vitality.jpg)
 >This statistic represents your will to live and keep fighting despite injuries.
 Attributes influenced by Vitality: Health Points.<br> <br>
 Level 1: the usual self preservation instinct, however most people will perish when faced with the beasts.<br> <br>
@@ -14,7 +14,7 @@ Level 5: places the hunter above the rest as they are determined to see the nigh
 >Represents your current will to keep going in that moment.<br> <br>
 Health Points (HP) = Vitality * 10<br> <br>
 HP are lost when you suffer damage, they can be regained through healing.
->### Endurance (END) ![Endurance Icon](assets/images/endurance.jpg)
+>### Endurance (END) ![Endurance Icon](assets/images/attributes/endurance.jpg)
 >This statistic represents your physical capacity and mental resilience in front of pain or anguish.<br> <br>
 Attributes influenced by Endurance: Stamina Points , Sanity Level and Initiative.<br> <br>
 Level 1: the basic human standard in body tenacity and mental strength, one found in a normal person that never had any form of specialized training neither had any encounters with the eldritch truth.<br> <br>
@@ -24,7 +24,7 @@ Level 5: peak form of human strength and presence and individual that through th
 >Allows you to outperform yourself, performing extra actions or special actions in battle.<br> <br>
 Stamina Points = Endurance * 3<br> <br>
 Most hunters can only use one Stamina Point per round, not being able to use it again in Battle after all points are spent. Once the foe is killed and the Battle is finished, all Stamina Points are replenished.
->### Accuracy (ACC) ![Accuracy Icon](assets/images/accuracy.jpg)
+>### Accuracy (ACC) ![Accuracy Icon](assets/images/attributes/accuracy.jpg)
 >This statistic represents your capacity to hit targets in the midst of turmoil. It is used in Battle to determine critical hits, parries and perform regular attacks. <br> <br>
 Attributes influenced by Accuracy: Hit Roll<br> <br> 
 Level 1: aim of a peasant with a wooden slingshot.<br> <br>
@@ -32,7 +32,7 @@ Level 3: a skilled marksman or fencer.<br> <br>
 Level 5: peak marksmanship and excellent combat prowess.
 >#### Hit Roll:
 >Hit Roll = (Accuracy)d10
->### Skill (SKL) ![Skill Icon](assets/images/skill.jpg)
+>### Skill (SKL) ![Skill Icon](assets/images/attributes/skill.jpg)
 >This statistic represents your hunter`s skill in battle, specially when using skill-based weapons. It also defines your reaction time.<br> <br>
 Attributes influenced by Skill: Initiative, Visceral Damage and Defense.<br> <br>
 Level 1: the skill it takes to cut a piece of meat to grill.<br> <br>
@@ -45,7 +45,7 @@ All hunters roll initiative in the beggining of a Battle.
 >#### Visceral Damage (VISC)
 >When a foe has their guard broken, the hunter can roll skill to determine the damage done.<br> <br>
 Visceral Damage = (SKL)d10 x4
->### Strength (STR) ![Strength Icon](assets/images/strength.jpg)
+>### Strength (STR) ![Strength Icon](assets/images/attributes/strength.jpg)
 >This statistic represents your hunter`s physical strength and muscle tenacity, allowing him to wield abnormally heavy or cumbersome weapons with ease.<br> <br>
 Attributes influenced by Strength: Guard Level and Defense<br> <br>
 Level 1: the strength necessary to carry a pack of beans.<br> <br>
@@ -59,7 +59,7 @@ Enemies must get a ACC roll equal or higher than your defense in order to hit yo
 >Determines your capacity to maintain your fighting stance in Battle.<br> <br>
 Guard Points = Class Initial Value + STR value per level<br> <br>
 If a foe does more damage than your GUARD, your guard will be broken, leading you suscetible to double damage or a visceral attack.
->### Bloodtinge (BLT) ![Bloodtinge Icon](assets/images/bloodtinge.jpg)
+>### Bloodtinge (BLT) ![Bloodtinge Icon](assets/images/attributes/bloodtinge.jpg)
 >This statistic represents the quality of your blood. As many descendants of the elder blood have partaken in blood communion, the bloodtinge has wained through the generations. Those who still uphold high bloodtinge can infuse the blood in their quicksilver bullets to deal intoxicating damage to the beasts while also being capable of healing other hunters with their high quality blood.<br> <br>
 Attributes influenced by Bloodtinge: Ranged Damage, Blood Communion Level and Blood Drunkeness<br> <br>
 Level 1: your blood is poor and thin, like that of a blood craving peasant.<br> <br>
@@ -77,7 +77,7 @@ When you wish to give communion to a fellow hunter, you shall sacrifice 5 HP per
 >Determines your resistance to the inebriating quality of blood and the thirsting beast inside.<br> <br>
 Blood Drunkeness = (BLT from the blood received - BLT from the hunter healed)d10 <br> <br>
 The hunter must roll for Blood Drunkeness with the amount of d10 equal to the difference of the bloodtinge from the blood received and the bloodtinge of the hunter who partook in communion. After this, the hunter must perform a Sanity Roll, should the Sanity Roll be inferior to the Blood Drunkeness Roll, the hunter will be taken by the Beast for one round and they will receive one Beast Point.
->### Arcane (ARC) ![Arcane Icon](assets/images/arcane.jpg)
+>### Arcane (ARC) ![Arcane Icon](assets/images/attributes/arcane.jpg)
 >This statistic represents your understanding of the eldritch truth and the nature of the cosmos. How many eyes on the insight does the hunter possess.<br> <br>
 Attributes influenced by Arcane: Sanity Level and Insight<br> <br>
 Level 1: you are thinking on the basest of planes, so blinded and ignorant, blessed.<br> <br>
@@ -88,14 +88,14 @@ Level 5: you see more than anyone should, may the great ones have mercy on your 
 Sanity Level = (ARC + END)d10<br> <br>
 Once exposed to the eldritch truth or the intoxication of the blood, a hunter must do a Sanity Roll.<br> <br>
 A Sanity Roll is successful if it is equal or higher than the Roll being resisted.
->#### Insight (IS) ![Insight Icon](assets/images/insight.jpg)
+>#### Insight (IS) ![Insight Icon](assets/images/attributes/insight.jpg)
 >Insight = 0/10<br> <br>
 When exposed to the eldritch truth, you gain unholy insight into the Kosm.<br> <br>
 Hunters can perform Insight Rolls willingly to gain divine knowledge upon their foes and mysteries, however those shall also be resisted sanity-wise.<br> <br>
 Insight Roll = (Insight)d10<br> <br>
 Whenever a hunter is exposed to the eldritch truth, they must perform a Insight Roll, then resist it with a Sanity Roll,should they fail they will be stunned for one round if in Battle and will also gain one point of Insight.<br> <br>
 When a hunter gains Insight with an empty Beast Point bar, they will have the Beast Point maximum permanently reduced by 1.
->### Beasthood (BTH) ![Beasthood Icon](assets/images/beasthood.jpg)
+>### Beasthood (BTH) ![Beasthood Icon](assets/images/attributes/beasthood.jpg)
 >This represents how much your hunter has embranced the beast within, heeding the call of the old blood.
 Attributes influenced by Beasthood: Beast Damage, Beast Points.<br> <br>
 Level 1: you thirst for the old blood, but you can contain yourself.<br> <br>
