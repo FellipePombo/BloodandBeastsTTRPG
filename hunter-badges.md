@@ -1,3 +1,7 @@
+<a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
+  <img src="assets/images/logo.png">
+</a>
+
 
 [Saw Hunter Badge](weapons/saw-hunter-weapons.md)
 
