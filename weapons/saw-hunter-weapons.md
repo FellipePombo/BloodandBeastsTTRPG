@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="../assets/css/saw-hunter-weapons.css">
 <a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
-  <img src="assets/images/logo.png">
+  <img src="../assets/images/logo.png">
 </a>
 
 
