@@ -27,9 +27,9 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | STR | 3 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR to enemy guard|
-| Smash | STR | 3 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard|
-| Charged Smash| STR | 4 meters | x2 | +STR | 1 enemy | Stagger: -STR to enemy guard|
+| Sweep | STR | 2 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR to enemy guard|
+| Smash | STR | 2 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard|
+| Charged Smash| STR | 2 meters | x3 | +STR | 1 enemy | Stagger: -STR to enemy guard|
 
 >#### Revolving Pistol ![Revolving Pistol](../assets/images/weapons/swordhunter/revolvingpistol.png)
 >A revolving pistol with a complex design, it shoots two bullets at once. <br><br>
