@@ -4,11 +4,11 @@
 </a>
 
 
->## Saw Hunter Badge
+>## Saw Hunter Badge ![Saw Hunter Badge](../assets/images/weapons/badges/sawhunter.png)
 >This badge represents the prowess one possesses at hunting and slaying beasts.
 
 >### Acquisition
->It can be acquired by killing a level 3 or higher Beast type enemy.
+>It can be acquired by killing a level 2 or higher Beast type enemy.
 
 >#### Hunter Axe ![Hunter Axe](../assets/images/weapons/sawhunter/hunteraxe.png)
 >An axe commonly used on the hunt. It has high rally potential and also gives great crowd control attacks when transformed.<br><br>
@@ -17,20 +17,20 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Vertical Swing | STR | 1 meter | x2 | 0 | 1 enemy| Rally increase : +STR to Rally|
-| Horizontal Swing | STR | 1 meter | x2 | 0 | 2 adjacent enemies | Rally increase : +STR to Rally|
+| Vertical Swing | STR | 1 meter | x2 | 0 | 1 enemy| Rally : +STR to Rally|
+| Horizontal Swing | STR | 1 meter | x2 | +STR | 2 adjacent enemies | Rally increase : +STR to Rally|
 | Smash | STR | 1 meter | x2 | +STR | 1 enemy | Stagger: -STR to enemy guard|
 | Charged Smash | STR | 1 meter | x2 | 0 | 1 enemy | Stagger: -STR to enemy guard|
-| Piercing Uncoil | STR | 4 meters | x3 | 0 | 1 enemy | Transform|
+| Switch Pierce | STR | 4 meters | x3 | 0 | 1 enemy | --|
 
 >Halberd Form: <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | STR | 3 meters | x2 | 0 | 4 adjacent enemies| Rally increase : +STR to Rally|
+| Sweep | STR | 3 meters | x2 | +STR | 4 adjacent enemies| Rally : +STR to Rally|
 | Long Smash | STR | 3 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard|
-| Piercing Switch| STR | 4 meters | x3 | +SKL | 1 enemy | --|
-| Charged Spin | STR | 3 meters | x2 | 0 | 8 enemies| Stagger: -STR to enemy guard, Knockback: 3 meters|
+| Piercing Strike| STR | 4 meters | x3 | +SKL | 1 enemy | --|
+| Charged Spin | STR | 3 meters | x2 | +STR | 8 enemies| Stagger: -STR to enemy guard, Knockback: 3 meters|
 
 >#### Saw Cleaver ![Saw Cleaver](../assets/images/weapons/sawhunter/sawcleaver.png)
 >An effective saw at drawing the blood of beasts, it transforms into a long cleaver. It is a symbol of the hunt against beasts.<br><br>
@@ -39,7 +39,7 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Swing | SKL | 1 meter | x3 | 0 | 2 adjacent enemies | Serrated |
+| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated |
 | Charged Swing | STR | 1 meter | x2 | 0 | 1 enemy | Serrated|
 | Switch Swing | SKL | 2 meters | x3 | +SKL | 1 enemy | --|
 
@@ -47,7 +47,7 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | SKL | 2 meters | x2 | 0 | 2 adjacent enemies| -- |
+| Sweep | SKL | 2 meters | x2 | +SKL | 2 adjacent enemies| -- |
 | Downward Smash | STR | 2 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard|
 | Charged Sweep| STR | 2 meters | x2 | +SKL | 2 adjacent enemies |Stagger: -STR to enemy guard, Knockback: 2 meters|
 
@@ -58,17 +58,17 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Swing | SKL | 1 meter | x3 | 0 | 2 adjacent enemies | Serrated |
-| Charged Swing | SKL | 1 meter | x2 | 0 | 1 enemy | Serrated|
+| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated |
+| Charged Swing | SKL | 1 meter | x2 | +SKL | 1 enemy | Serrated|
 | Switch Swing | SKL | 3 meters | x3 | +SKL | 1 enemy | Serrated|
 
 >Spear Form: <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | SKL | 3 meters | x2 | 0 | 2 adjacent enemies| Serrated |
+| Sweep | SKL | 3 meters | x2 | +SKL | 2 adjacent enemies| Serrated |
 | Downward Smash | SKL | 3 meters | x2 | +STR | 1 enemy |Serrated|
-| Charged Sweep| SKL | 3 meters | x2 | 0 | 2 adjacent enemies |Stagger: -STR to enemy guard, Knockback: 2 meters, Serrated|
+| Charged Sweep| SKL | 3 meters | x2 | +SKL | 2 adjacent enemies |Stagger: -STR to enemy guard, Knockback: 2 meters, Serrated|
 
 
 >#### Threaded Cane ![Threaded Cane](../assets/images/weapons/sawhunter/threadedcane.png)
@@ -87,7 +87,7 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | SKL | 4 meters | x2 | 0 | 6 adjacent enemies| Serrated |
+| Sweep | SKL | 4 meters | x2 | +SKL | 6 adjacent enemies| Serrated |
 | Piercing Swing | SKL | 4 meters | x3 | +SKL | 1 enemy |Serrated|
 
 
@@ -98,7 +98,7 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 10 meters | x2 | 0 | 1 enemy | --| 1 |
+| Shot | BLT| 10 meters | x2 | +SKL | 1 enemy | Precise: +5| 1 |
 
 
 
@@ -107,4 +107,4 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 6 meters | x2 | 0 | 4 adjacent enemies | --| 1 |
+| Shot | BLT| 6 meters | x2 | +STR | 4 adjacent enemies | --| 1 |
