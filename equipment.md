@@ -4,5 +4,7 @@
 
 [Trick Weapons and Firearms](hunter-badges.md)
 
+[Effects](effects.md)
+
 
 [Consumable Buffs](item-buffs.md)
