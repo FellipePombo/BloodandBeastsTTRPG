@@ -5,7 +5,7 @@
 
 [Saw Hunter Badge](weapons/saw-hunter-weapons.md)
 
-[Sword Hunter Badge]
+[Sword Hunter Badge](weapons/sword-hunter-weapons.md)
 
 [Radiant Sword Hunter Badge]
 
