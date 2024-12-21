@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../assets/css/sword-hunter-weapons.css">
+<link rel="stylesheet" href="../assets/css/weaponspage.css">
 <a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
   <img src="../assets/images/logo.png">
 </a>
@@ -27,9 +27,9 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | STR | 2 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR to enemy guard|
-| Smash | STR | 2 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard|
-| Charged Smash| STR | 2 meters | x3 | +STR | 1 enemy | Stagger: -STR to enemy guard|
+| Sweep | STR | 2 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR to enemy guard, Strong:+1d10|
+| Smash | STR | 2 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard, Strong:+2d10|
+| Charged Smash| STR | 2 meters | x3 | +STR | 1 enemy | Stagger: -STR to enemy guard, Strong:+2d10|
 
 >#### Revolving Pistol ![Revolving Pistol](../assets/images/weapons/swordhunter/revolvingpistol.png)
 >A revolving pistol with a complex design, it shoots two bullets at once. <br><br>

@@ -12,7 +12,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 2 | HP = 20 |
+| VIT: | 2 | HP = 40 |
 | END: | 2 | Stamina = 6|
 | STR: | 1 | Guard = 20 |
 | SKL: | 1 | DEF = 10 |
@@ -26,7 +26,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 2 | HP = 20 |
+| VIT: | 2 | HP = 40 |
 | END: | 3 | Stamina = 9 |
 | STR: | 2 | Guard = 25|
 | SKL: | 1 | DEF = 15 |
@@ -40,7 +40,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 3 | HP = 30 |
+| VIT: | 3 | HP = 60 |
 | END: | 1 | Stamina = 3|
 | STR: | 0 | Guard = 40|
 | SKL: | 0 | DEF = 10 |
@@ -54,7 +54,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 2 | HP = 20 |
+| VIT: | 2 | HP = 40 |
 | END: | 1 | Stamina = 3|
 | STR: | 1 | Guard = 22|
 | SKL: | 2 | DEF = 12 |
@@ -68,7 +68,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT:2 | 2 | HP = 20 |
+| VIT:2 | 2 | HP = 40 |
 | END:2 | 2 | Stamina = 6 |
 | STR:0 | 0 | Guard = 20|
 | SKL:0 | 0 | DEF = 15 |
@@ -82,7 +82,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 2 | HP = 20 |
+| VIT: | 2 | HP = 40 |
 | END: | 2 | Stamina = 6  , INIT = 2d10|
 | STR: | 0 | Guard = 30|
 | SKL: | 0 | DEF = 12 |
@@ -96,7 +96,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 1 | HP = 10 |
+| VIT: | 1 | HP = 20 |
 | END: | 2 | Stamina = 6 |
 | STR: | 1 | Guard = 20|
 | SKL: | 2 | DEF = 12 |
@@ -110,7 +110,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 2 | HP = 20 |
+| VIT: | 2 | HP = 40 |
 | END: | 2 | Stamina = 6 |
 | STR: | 0 | Guard = 22|
 | SKL: | 2 | DEF = 15 |
@@ -124,7 +124,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 3 | HP = 30 |
+| VIT: | 3 | HP = 60 |
 | END: | 2 | Stamina = 6 |
 | STR: | 3 | Guard = 25|
 | SKL: | 0 | DEF = 15 |
@@ -138,7 +138,7 @@ The blood attracted you, maybe you wanted to feel more powerful using it, or may
 
 >| Stats |  | Attributes |
 | --- | --- | --- |
-| VIT: | 3 | HP = 30 |
+| VIT: | 3 | HP = 60 |
 | END: | 3 | Stamina = 9 |
 | STR: | 1 | Guard = 23|
 | SKL: | 1 | DEF = 13 |
