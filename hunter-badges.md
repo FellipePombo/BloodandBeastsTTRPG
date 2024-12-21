@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/hunter-badges.css">
+<link rel="stylesheet" href="assets/css/weaponspage.css">
 <a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
   <img src="assets/images/logo.png">
 </a>
