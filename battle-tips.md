@@ -66,7 +66,7 @@ The damage caused by area of effect is always cut in half.
 Vials of Blood have their own BLT associated, which varies depending on their source.<br><br>
 One vial of Blood always heals (1d10 + BLT from the Blood), an per each vial used the hunter must do a Blood Drunkeness Roll to be resisted by a Sanity Roll.
 >#### Charge Strong Attack
->Charging a strong attack grants a x2 multiplier in the next attack performed regardless of critical hits. All multipliers stack.<br><br>
+>Charging a strong attack adds 2d10 to the next attack damage performed regardless of stats.<br><br>
 However in order to perform a charged attack a hunter needs to use all of his round, not being able to perform any other actions besides the charged attack.
 >#### Parry
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>

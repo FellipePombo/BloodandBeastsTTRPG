@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../assets/css/saw-hunter-weapons.css">
+<link rel="stylesheet" href="../assets/css/weaponspage.css">
 <a id= "logo" href="https://fellipepombo.github.io/BloodandBeastsTTRPG/">
   <img src="../assets/images/logo.png">
 </a>
@@ -28,7 +28,7 @@
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Sweep | STR | 3 meters | x2 | +STR | 4 adjacent enemies| Rally : +STR to Rally|
-| Long Smash | STR | 3 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard|
+| Long Smash | STR | 3 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard, Strong:1d10|
 | Piercing Strike| STR | 4 meters | x3 | +SKL | 1 enemy | --|
 | Charged Spin | STR | 3 meters | x2 | +STR | 8 enemies| Stagger: -STR to enemy guard, Knockback: 3 meters|
 
@@ -39,16 +39,16 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated |
+| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated  Chain|
 | Charged Swing | STR | 1 meter | x2 | 0 | 1 enemy | Serrated|
-| Switch Swing | SKL | 2 meters | x3 | +SKL | 1 enemy | --|
+| Switch Swing | SKL | 2 meters | x3 | +SKL | 1 enemy | Scourge Affinity: -1|
 
 >Cleaver Form: <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Sweep | SKL | 2 meters | x2 | +SKL | 2 adjacent enemies| -- |
-| Downward Smash | STR | 2 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard|
+| Downward Smash | STR | 2 meters | x2 | +STR | 1 enemy |Stagger: -STR to enemy guard, Strong:+1d10|
 | Charged Sweep| STR | 2 meters | x2 | +SKL | 2 adjacent enemies |Stagger: -STR to enemy guard, Knockback: 2 meters|
 
 >#### Saw Spear ![Saw Spear](../assets/images/weapons/sawhunter/sawspear.png)
@@ -58,9 +58,9 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated |
+| Swing | SKL | 1 meter | x3 | +SKL | 2 adjacent enemies | Serrated,Chain |
 | Charged Swing | SKL | 1 meter | x2 | +SKL | 1 enemy | Serrated|
-| Switch Swing | SKL | 3 meters | x3 | +SKL | 1 enemy | Serrated|
+| Switch Swing | SKL | 3 meters | x3 | +SKL | 1 enemy | Serrated, Scourge Affinity: -1|
 
 >Spear Form: <br><br>
 

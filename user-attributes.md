@@ -12,7 +12,7 @@ Level 3: expected of veteran hunters or individuals who have had to fight to sta
 Level 5: places the hunter above the rest as they are determined to see the night through alive.
 >#### Health Points (HP)
 >Represents your current will to keep going in that moment.<br> <br>
-Health Points (HP) = Vitality * 10<br> <br>
+Health Points (HP) = Vitality * 20<br> <br>
 HP are lost when you suffer damage, they can be regained through healing.
 >### Endurance (END) ![Endurance Icon](assets/images/attributes/endurance.jpg)
 >This statistic represents your physical capacity and mental resilience in front of pain or anguish.<br> <br>
