@@ -31,7 +31,7 @@ Level 1: aim of a peasant with a wooden slingshot.<br> <br>
 Level 3: a skilled marksman or fencer.<br> <br>
 Level 5: peak marksmanship and excellent combat prowess.
 >#### Hit Roll:
->Hit Roll = (Accuracy)d10
+>Hit Roll = (Accuracy)d20
 >### Skill (SKL) ![Skill Icon](assets/images/attributes/skill.jpg)
 >This statistic represents your hunter`s skill in battle, specially when using skill-based weapons. It also defines your reaction time.<br> <br>
 Attributes influenced by Skill: Initiative, Visceral Damage and Defense.<br> <br>
@@ -44,7 +44,7 @@ Initiative = (SKL + END)d10<br> <br>
 All hunters roll initiative in the beggining of a Battle.
 >#### Visceral Damage (VISC)
 >When a foe has their guard broken, the hunter can roll skill to determine the damage done.<br> <br>
-Visceral Damage = (SKL)d10 x4
+Visceral Damage = (SKL)d12 x4
 >### Strength (STR) ![Strength Icon](assets/images/attributes/strength.jpg)
 >This statistic represents your hunter`s physical strength and muscle tenacity, allowing him to wield abnormally heavy or cumbersome weapons with ease.<br> <br>
 Attributes influenced by Strength: Guard Level and Defense<br> <br>

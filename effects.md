@@ -16,19 +16,31 @@
 >This effect adds 2d10 damage to any attack done against beasts.
 
 >## Strong
->This effect adds a certain amount of 1d10 to the attack damage.
+>This effect adds a certain amount of dice from the weapons damage dice to the attack damage.
 
 >## Chain
 >This effect allows for the hunter to immediately launch a second attack without the need for an ACC roll, as long as he spends 1 point of stamina for each attack done in chained succession.
 
 >## Scourge
 >Each dice in a Attack Damage roll (only SKL or STR dice) that results in a value higher or equal to 10 - BTH is considered a Scourge Dice. In the next Attack Damage roll done by the hunter, the damage will be:<br><br>
-Hunter Damage = (Scourge Dice + SKL/STR)d10 <br><br>
+Hunter Damage = Attack Damage + (Scourge Dice)d10 <br><br>
 Scourge Dice stack until the effect remains, however if the hunter takes damage, the damage suffered will be: <br><br>
-Damage taken = Damage of enemy attack + (Scourge Dice)d10
+Damage taken = Damage of enemy attack + (Scourge Dice)d6
 
 >## Scourge Affinity
 > This effect reduces the value required for each dice to count as scourge dice by a certain amount.. 
 
 >## Precise
 >This effect increases the ACC roll for parrying by a set amount.
+
+>## Fire
+> Converts all damage done to Fire Damage.
+
+>## Bolt
+>Converts all damage done to Bolt.
+
+>## Arcane
+>Converts all damage done to Arcane.
+
+>## Knockback
+>Sends the enemies flying across the map in the direction of the attack for a certain distance. If the enemies hit a solid object or wall they take 1d6 extra damage.

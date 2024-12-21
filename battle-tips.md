@@ -37,16 +37,20 @@ Perform Visceral Attack
 >Hunters attack to destroy the beasts and render their foes broken.<br><br>
 An attack is usually defined by its Type. <br><br>
 The Type of an attack determines the nature of the damage it will cause. 
-An attack of STR type, will have its damage calculated with a STR roll.<br><br>
+An attack of STR type, will have its damage calculated with a STR roll. <br><br>
+The weapons damage dice determines what kind of dice are used to calculate the damage, if a weapon has d6 as damage dice for instance, its damage will be calculated by a roll with the number of d6 equal to the attack type, so if attack type is SKL, the damage roll will be: (SKL)d6.
+<br><br>
 Before the damage can be calculated however an ACC roll needs to be done to see if the attack hits. 
 If it hits, the damage is then calculated accordingly.<br><br>
-IF two or more 10s showup in the roll, that is considered a critical hit. Criticals hit automatically and multiply the damage based on the multiplier of the attack performed.<br><br> 
+If 1 dice is a 20 in the roll, that is considered a critical hit. Criticals hit automatically and multiply the damage based on the multiplier of the attack performed.<br><br> 
 Each weapon has a multitude of attacks that can have different types, ranges, multipliers, modifiers and effects.<br><br>
-Modifiers add a regular value of damage to the attack, while the range determines how close the hunter has to be to his foe in order to perform the attack.<br><br>
+Multipliers determine how much you should multiply the damage in case of a critical, multipliers can also contain a value next to them, such as: (19/2x), this indicates a lowering in the value needed for a critical to hit, in this case any dice above 19 would constitute a critical.
+Modifiers add a regular value to the ACC roll, while the range determines how close the hunter has to be to his foe in order to perform the attack.<br><br>
 Effects can cause specific effects on foes that are hit. The Stagger effect reduces the guard level of the foe by a certain value once the foe is hit, increasing the chances of the hunter breaking his opponent guard. Other effects such as bolt, serrated, fire, can stun, inflict lasting damage or increase damage against certain enemy types amongst other possibilities.
+
 >#### Activate Hunter Tool
 >Hunter Tools are objects infused with the Arcane and eldritch. Hunters can activate the innate power in these objects to access eldritch powers. Doing so however comes with a cost.<br><br>
-If the hunter tool causes any damage it will always be calculated by an Arcane roll + ARC. Hunters dont have to roll ACC to inflict hunter tool damage.<br><br>
+If the hunter tool causes any damage it will always be calculated by an Arcane roll. Hunters dont have to roll ACC to inflict hunter tool damage.<br><br>
 Whenever the hunter activates a hunter tool, a Insight roll must be performed and then resisted by a Sanity Roll.<br><br>
 Hunter Tools use up quicksilver bullets, some more than others.
 >#### Blood Communion
@@ -66,11 +70,11 @@ The damage caused by area of effect is always cut in half.
 Vials of Blood have their own BLT associated, which varies depending on their source.<br><br>
 One vial of Blood always heals (1d10 + BLT from the Blood), an per each vial used the hunter must do a Blood Drunkeness Roll to be resisted by a Sanity Roll.
 >#### Charge Strong Attack
->Charging a strong attack adds 2d10 to the next attack damage performed regardless of stats.<br><br>
+>Charging a strong attack adds 2 dice of the weapons damage dice to the next attack damage performed regardless of stats.<br><br>
 However in order to perform a charged attack a hunter needs to use all of his round, not being able to perform any other actions besides the charged attack.
 >#### Parry
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
-This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
+This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack and a firearm. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
 If the hunters ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack. <br><br>
 If the roll fails to hit the parry level but succeeds in hitting the enemies DEF, the damage is calculated but the enemies guard isnt broken.
 >#### Transform Trick Weapon
