@@ -20,7 +20,7 @@ Damage Dice: d12  <br><br>
 | --- | --- | --- |--- |--- |--- |--- |
 | Smash | STR | 1 meter | x2 | +STR | 1 adjacent enemies| Righteous, Stagger: -STR |
 | Charged Spin | STR | 1 meter | x2 | +STR | 6 adjacent enemies | Righteous, Knockback: 3 meters |
-| Switch Smash | ARC | 1 meter | x2 | +ARC | 1 enemy | Righteous, Stagger: -STR, Strong: +3 |
+| Switch Smash | ARC | 1 meter | x2 | +ARC | 1 enemy | Righteous, Stagger: -STR, Strong: +3, Arcane|
 
 
 
