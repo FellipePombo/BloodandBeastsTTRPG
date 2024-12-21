@@ -10,7 +10,7 @@
 
 ## [Radiant Sword Hunter Badge](weapons/radiant-sword-hunter-weapons.md) ![Radiant Sword Hunter Badge](assets/images/weapons/badges/radiantswordhunter.png)
 
-[Wheel Hunter Badge]
+## [Wheel Hunter Badge](weapons/wheel-hunter-weapons.md) ![Wheel Hunter Badge](assets/images/weapons/badges/wheelhunter.png)
 
 [Crow Hunter Badge]
 
