@@ -70,8 +70,8 @@ One vial of Blood always heals (1d10 + BLT from the Blood), an per each vial use
 However in order to perform a charged attack a hunter needs to use all of his round, not being able to perform any other actions besides the charged attack.
 >#### Parry
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
-This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemy`s attack. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
-If the hunter`s ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack. <br><br>
+This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
+If the hunters ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack. <br><br>
 If the roll fails to hit the parry level but succeeds in hitting the enemies DEF, the damage is calculated but the enemies guard isnt broken.
 >#### Transform Trick Weapon
 >The hunter must use a movement action to transform their weapon, sometimes specific attacks can have the Transform effect, which transforms your weapon after the attack is performed. 
