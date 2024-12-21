@@ -29,9 +29,9 @@ Damage Dice: d12  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | STR | 2 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR to enemy guard, Strong:+1|
-| Smash | STR | 2 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard, Strong:+2|
-| Charged Smash| STR | 2 meters | x3 | +STR | 1 enemy | Stagger: -STR to enemy guard, Strong:+2|
+| Sweep | STR | 2 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR, Strong:+1|
+| Smash | STR | 2 meters | x3 | 0 | 1 enemy |Stagger: -STR, Strong:+2|
+| Charged Smash| STR | 2 meters | x3 | +STR | 1 enemy | Stagger: -STR, Strong:+2|
 
 >#### Revolving Pistol ![Revolving Pistol](../assets/images/weapons/swordhunter/revolvingpistol.png)
 >A revolving pistol with a complex design, it shoots two bullets at once. <br><br>
