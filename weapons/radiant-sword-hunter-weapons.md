@@ -31,3 +31,20 @@
 | Smash | STR | 3 meters | x3 | 0 | 1 enemy |Stagger: -STR to enemy guard, Strong:+2d10, Righteous|
 | Heavy Pierce| STR | 4 meters | x3 | +STR | 1 enemy |Strong:+2d10, Righteous|
 | Charged Pierce| STR | 4 meters | x3 | +STR | 1 enemy |Strong:+1d10, Righteous|
+
+
+>#### Ludwig`s Rifle ![Ludwig Rifle](../assets/images/weapons/radiantswordhunter/ludwigsrifle.png)
+>Once used by Ludwig, this rifle has a long heavy barrel in spite of its slow reload speed. <br><br>
+
+
+>| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
+| --- | --- | --- |--- |--- |--- |--- | --- |
+| Shot | BLT| 10 meters | x2 | 0 | 4 adjacent enemies |--| 1 |
+
+>#### Flamesprayer ![Flamesprayer](../assets/images/weapons/radiantswordhunter/flamesprayer.png)
+>Used by Healing Church hunters. Uses quicksilver bullets to spit searing fire. Useful against beasts.<br><br>
+
+
+>| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
+| --- | --- | --- |--- |--- |--- |--- | --- |
+| Spray | Fire(3d10) + ARC| 3 meters | x2 | 0 | 6 adjacent enemies |--| 3 |
