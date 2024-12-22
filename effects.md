@@ -54,4 +54,5 @@ Damage taken = Damage of enemy attack + (Scourge Dice)d6
 >## Martyr
 >This effect is exclusive to the [Logarius Wheel](weapons/wheel-hunter-weapons.md#logarius-wheel-logarius-wheel), it adds +1 to the critical multiplier of every hit, this increase stacks with every martyr effect stacked. <br><br>
 Every time this effect is applied the Hunter takes (ARC)d4 damage.<br><br>
-The Martyr effect can be stacked a maximum of 3 times.
+The Martyr effect can be stacked a maximum of 3 times. <br><br>
+A stack is lost each round.

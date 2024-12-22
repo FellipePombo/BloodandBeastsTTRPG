@@ -13,6 +13,8 @@
 >#### Ludwig`s Holy Blade ![Ludwig Holy Blade](../assets/images/weapons/radiantswordhunter/ludwigsholyblade.png)
 >Typically used by Healing Church hunters. It is said that this silver blade was used by Ludwig, the first church hunter. When transformed, the blade combines with its sheath to become a greatsword.<br><br>
 
+>Buffs can be applied. <br><br>
+
 >Sword Form: <br><br>
 Damage Dice: d10  <br><br>
 
@@ -38,6 +40,7 @@ Damage Dice: d12  <br><br>
 >#### Ludwig`s Rifle ![Ludwig Rifle](../assets/images/weapons/radiantswordhunter/ludwigsrifle.png)
 >Once used by Ludwig, this rifle has a long heavy barrel in spite of its slow reload speed. <br><br>
 Damage Dice: d6  <br><br>
+
 
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|

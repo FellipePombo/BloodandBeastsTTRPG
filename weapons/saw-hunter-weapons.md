@@ -13,6 +13,8 @@
 >#### Hunter Axe ![Hunter Axe](../assets/images/weapons/sawhunter/hunteraxe.png)
 >An axe commonly used on the hunt. It has high rally potential and also gives great crowd control attacks when transformed.<br><br>
 
+>Buffs can be applied. <br><br>
+
 >Hand Axe Form: <br><br>
 Damage Dice: d10  <br><br>
 
@@ -37,6 +39,8 @@ Damage Dice: d12  <br><br>
 >An effective saw at drawing the blood of beasts, it transforms into a long cleaver. It is a symbol of the hunt against beasts.<br><br>
 Damage Dice: d10 <br><br>
 
+>Buffs can be applied. <br><br>
+
 >Saw Form: <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
@@ -56,6 +60,8 @@ Damage Dice: d10 <br><br>
 >#### Saw Spear ![Saw Spear](../assets/images/weapons/sawhunter/sawspear.png)
 >This saw, effective at drawing blood from beasts, transforms into a medium-range spear.<br><br>
 Damage Dice: d10 <br><br>
+
+>Buffs can be applied. <br><br>
 
 >Saw Form: <br><br>
 
@@ -77,6 +83,8 @@ Damage Dice: d10 <br><br>
 >#### Threaded Cane ![Threaded Cane](../assets/images/weapons/sawhunter/threadedcane.png)
 >A deadly strong bladed cane, that serves as a serrated whip when transformed. <br><br>
 Damage Dice: d6 <br><br>
+
+>Buffs can be applied. <br><br>
 
 >Cane Form: <br><br>
 
