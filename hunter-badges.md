@@ -14,7 +14,7 @@
 
 ## [Crow Hunter Badge](weapons/crow-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/crowhunter.png)
 
-[Spark Hunter Badge]
+## [Spark Hunter Badge](weapons/spark-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/sparkhunter.png)
 
 [Powder Keg Hunter Badge]
 

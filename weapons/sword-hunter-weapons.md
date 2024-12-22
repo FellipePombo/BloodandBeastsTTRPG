@@ -13,8 +13,10 @@
 >#### Kirkhammer ![Kirkhammer](../assets/images/weapons/swordhunter/kirkhammer.png)
 >Typically used by Healing Church hunters. An easily handled silver sword that can turn into a giant obtuse weapon, with extreme force of impact.<br><br>
 
+>Buffs can be applied. <br><br>
+
 >Sword Form: <br><br>
-Damage Dice: d10  <br><br>
+>Damage Dice: d10  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
@@ -25,7 +27,7 @@ Damage Dice: d10  <br><br>
 | Switch Smash | STR | 1 meter | x3 | +STR | 1 enemy | Righteous|
 
 >Greathammer Form: <br><br>
-Damage Dice: d12  <br><br>
+>Damage Dice: d12  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
@@ -35,7 +37,7 @@ Damage Dice: d12  <br><br>
 
 >#### Revolving Pistol ![Revolving Pistol](../assets/images/weapons/swordhunter/revolvingpistol.png)
 >A revolving pistol with a complex design, it shoots two bullets at once. <br><br>
-Damage Dice: d4  <br><br>
+>Damage Dice: d4  <br><br>
 
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|

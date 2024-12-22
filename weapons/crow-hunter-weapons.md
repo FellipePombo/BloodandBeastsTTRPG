@@ -12,6 +12,8 @@
 >#### Blade of Mercy ![Blade of Mercy](../assets/images/weapons/crowhunter/bladeofmercy.png)
 >One of the oldest weapons of the workshop, used by the Hunters of Hunters.<br><br>
 
+>Buffs cannot be applied. <br><br>
+
 >Shortsword Form: <br><br>
 
 >Damage Dice: d8 <br><br>

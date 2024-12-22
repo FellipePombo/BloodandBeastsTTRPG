@@ -12,7 +12,10 @@
 
 >#### Logarius Wheel ![Logarius Wheel](../assets/images/weapons/wheelhunter/logariuswheel.png)
 >Used to slaughter the vilebloods of Cainhurst, bathing in their blood and ire. Transforming releases the rage of the wheel in a show of utter brilliance as the vileblood tortured souls scream in anger.<br><br>
-Damage Dice: d12  <br><br>
+
+>Buffs cannot be applied. <br><br>
+
+>Damage Dice: d12  <br><br>
 
 >Standard Form: <br><br>
 
