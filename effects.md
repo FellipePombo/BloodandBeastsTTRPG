@@ -19,7 +19,13 @@
 >This effect adds a certain amount of dice from the weapons damage dice to the attack damage.
 
 >## Chain
->This effect allows for the hunter to immediately launch a second attack without the need for an ACC roll, as long as he spends 1 point of stamina for each attack done in chained succession.
+>This effect allows for the hunter to bypass the ACC roll for any attack that comes from spending a stamina point in the form of an extra action.
+
+>## Fast
+>This effect allows the attack to be performed as a movement action, instead of a regular one.
+
+>## Light
+>Grants the hunter an extra free movement action after performed.
 
 >## Scourge
 >Each dice in a Attack Damage roll (only SKL or STR dice) that results in a value higher or equal to 10 - BTH is considered a Scourge Dice. In the next Attack Damage roll done by the hunter, the damage will be:<br><br>

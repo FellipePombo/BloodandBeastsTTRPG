@@ -12,7 +12,7 @@
 
 ## [Wheel Hunter Badge](weapons/wheel-hunter-weapons.md) ![Wheel Hunter Badge](assets/images/weapons/badges/wheelhunter.png)
 
-[Crow Hunter Badge]
+## [Crow Hunter Badge](weapons/crow-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/crowhunter.png)
 
 [Spark Hunter Badge]
 
