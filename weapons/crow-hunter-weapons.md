@@ -31,6 +31,8 @@
 
 >Damage Dice: d4 <br><br>
 
+>Two-Handed. <br><br>
+
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Swing | SKL | 1 meter | x2 | +SKL | 1 enemy| Fast, Chain|

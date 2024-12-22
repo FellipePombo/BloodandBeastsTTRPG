@@ -28,6 +28,7 @@
 
 >Greathammer Form: <br><br>
 >Damage Dice: d12  <br><br>
+>Two-Handed. <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |

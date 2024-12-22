@@ -24,6 +24,9 @@
 >## Fast
 >This effect allows the attack to be performed as a movement action, instead of a regular one.
 
+>## Slow
+>This effect makes it so the attack only hits in the next round after it is performed.
+
 >## Light
 >Grants the hunter an extra free movement action after performed.
 

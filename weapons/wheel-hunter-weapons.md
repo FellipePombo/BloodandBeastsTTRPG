@@ -30,6 +30,8 @@
 
 >Imbued Form: <br><br>
 
+>Two-Handed. <br><br>
+
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Smash | ARC | 1 meter | x2 | +STR | 1 enemy|Arcane, Strong:+1, Righteous,Stagger: -STR|

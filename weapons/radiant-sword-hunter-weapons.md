@@ -4,7 +4,7 @@
 </a>
 
 
->## Saw Hunter Badge ![Radiant Sword Badge](../assets/images/weapons/badges/radiantswordhunter.png)
+>## Radiant Sword Hunter Badge ![Radiant Sword Badge](../assets/images/weapons/badges/radiantswordhunter.png)
 >The hunters know as the Holy Blades are an ancient line of heroes that date back to an age of honor and chivalry, the badge represents the will of Ludwig.
 
 >### Acquisition
@@ -16,7 +16,7 @@
 >Buffs can be applied. <br><br>
 
 >Sword Form: <br><br>
-Damage Dice: d10  <br><br>
+>Damage Dice: d10  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
@@ -27,7 +27,8 @@ Damage Dice: d10  <br><br>
 | Switch Smash | STR | 3 meters | x3 | +STR | 1 enemy | Righteous, Strong: +1|
 
 >Greatsword Form: <br><br>
-Damage Dice: d12  <br><br>
+>Damage Dice: d12  <br><br>
+>Two-Handed. <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
