@@ -19,7 +19,7 @@
 >This effect adds a certain amount of dice from the weapons damage dice to the attack damage.
 
 >## Chain
->This effect allows for the hunter to bypass the ACC roll for any attack that comes from spending a stamina point in the form of an extra action.
+>This effect allows for the hunter to bypass the ACC roll for the next attack.
 
 >## Fast
 >This effect allows the attack to be performed as a movement action, instead of a regular one.

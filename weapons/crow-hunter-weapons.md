@@ -14,7 +14,7 @@
 
 >Shortsword Form: <br><br>
 
-Damage Dice: d8 <br><br>
+>Damage Dice: d8 <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
@@ -27,7 +27,7 @@ Damage Dice: d8 <br><br>
 
 >Twin Daggers Form: <br><br>
 
-Damage Dice: d4 <br><br>
+>Damage Dice: d4 <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
