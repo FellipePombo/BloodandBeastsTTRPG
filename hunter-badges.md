@@ -16,7 +16,7 @@
 
 ## [Spark Hunter Badge](weapons/spark-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/sparkhunter.png)
 
-[Powder Keg Hunter Badge]
+## [Powder Keg Hunter Badge](weapons/powder-keg-hunter-weapons.md) ![Powder Keg Hunter Badge](assets/images/weapons/badges/powderkeghunter.png)
 
 [Cosmic Eye Watcher Badge]
 
