@@ -46,7 +46,7 @@
 | Thrust | SKL | 4 meters | x2 | +SKL | 1 enemy|-- | 0 |
 | Charged Thrust | SKL | 4 meters | x3 | +SKL | 1 enemy | --| 0 |
 | Swing | SKL | 3 meters | x2 | 0 | 2 adjacent enemies| --| 0 |
-| Switch Shot | BLT | 6 meters | x3 | + SKL | 4 adjacent enemies | -- | 1 | 
+| Switch Shot | BLT | 6 meters | x3 | + SKL | 4 adjacent enemies | Fast, Blood | 1 | 
 
 >Rifle Form: <br><br>
 
@@ -57,7 +57,7 @@
 | Thrust | SKL | 4 meters | x2 | +SKL | 1 enemy|-- | 0 |
 | Charged Thrust | SKL | 6 meters | x3 | +SKL | 1 enemy | --| 0 |
 | Swing | SKL | 3 meters | x2 | 0 | 2 adjacent enemies| --| 0 |
-| Shot | BLT | 6 meters | x2 | 0 | 4 adjacent enemies| --| 1 |
+| Shot | BLT | 6 meters | x2 | 0 | 4 adjacent enemies| Fast, Blood| 1 |
 | Switch Swipe | SKL | 4 meters | x3 | 0 | 6 adjacent enemies| --| 0 |
 
 
@@ -68,4 +68,4 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 10 meters | x2 | +STR | all enemies in a 6 meter radius |--| 12 |
+| Shot | BLT| 10 meters | x2 | +STR | all enemies in a 6 meter radius |Blood| 12 |

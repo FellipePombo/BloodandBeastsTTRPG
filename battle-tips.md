@@ -76,7 +76,8 @@ However in order to perform a charged attack a hunter needs to use all of his ro
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
 This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack and a firearm. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
 If the hunters ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack. <br><br>
-If the roll fails to hit the parry level but succeeds in hitting the enemies DEF, the damage is calculated but the enemies guard isnt broken.
+If the roll fails to hit the parry level but succeeds in hitting the enemies DEF, the damage is calculated but the enemies guard isnt broken.<br><br>
+Parries are usually performed with firearms that have Shot attacks, however it can also be performed by right-handed weapons that have Shot attacks, as long as the attack can be performed as a movement action.
 >#### Transform Trick Weapon
 >The hunter must use a movement action to transform their weapon, sometimes specific attacks can have the Transform effect, which transforms your weapon after the attack is performed. 
 >#### Communication

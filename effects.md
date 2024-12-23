@@ -51,6 +51,18 @@ Damage taken = Damage of enemy attack + (Scourge Dice)d6
 >## Arcane
 >Converts all damage done to Arcane.
 
+>## Blood
+>Converts all damage done to Blood.
+
+>## Rapid Poison
+>Inflicts a certain amount of d6 rapid poison when the attack is performed, filling the bar. Each enemy and hunter has a rapid poison bar, when filled, the enemy or hunter takes 2d20 damage.
+
+>## Slow Poison
+>Each enemy and hunter has a slow poison bar, when filled, the enemy or hunter takes 4d2 damage per round for 5 rounds.
+
+>## Frenzy
+> When inflicted, the hunter must perform an Insight Roll and resist it with a Sanity Roll. If the Sanity Roll fails, the hunter will suffer (VIT)d20 damage in the start of the next round.
+
 >## Knockback
 >Sends the enemies flying across the map in the direction of the attack for a certain distance. If the enemies hit a solid object or wall they take 1d6 extra damage.
 

@@ -112,7 +112,7 @@ Damage Dice: d4  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 10 meters | x2 | +SKL | 1 enemy | Precise: +5| 1 |
+| Shot | BLT| 10 meters | x2 | +SKL | 1 enemy | Blood, Precise: +3| 1 |
 
 
 
@@ -122,4 +122,4 @@ Damage Dice: d4  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 6 meters | 19/x2 | +STR | 4 adjacent enemies | --| 1 |
+| Shot | BLT| 6 meters | 19/x2 | +STR | 4 adjacent enemies | Blood| 1 |
