@@ -14,14 +14,12 @@
 
 ## [Crow Hunter Badge](weapons/crow-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/crowhunter.png)
 
-## [Spark Hunter Badge](weapons/spark-hunter-weapons.md) ![Crow Hunter Badge](assets/images/weapons/badges/sparkhunter.png)
+## [Spark Hunter Badge](weapons/spark-hunter-weapons.md) ![Spark Hunter Badge](assets/images/weapons/badges/sparkhunter.png)
 
 ## [Powder Keg Hunter Badge](weapons/powder-keg-hunter-weapons.md) ![Powder Keg Hunter Badge](assets/images/weapons/badges/powderkeghunter.png)
 
-[Cosmic Eye Watcher Badge]
+## [Cosmic Eye Watcher Badge](weapons/cosmic-eye-watcher-weapons.md) ![Cosmic Eye Watcher Badge](assets/images/weapons/badges/cosmiceyewatcher.png)
 
-[Cainhurst Badge]
-
-[Firing Hammer Badge]
+## [Cainhurst Badge](weapons/cainhurst-weapons.md) ![Cainhurst Badge](assets/images/weapons/badges/cainhurst.png)
 
 [Old Hunter Badge]

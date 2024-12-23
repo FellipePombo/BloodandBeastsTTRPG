@@ -28,6 +28,8 @@ Hunter Damage = (Scourge Dice in last roll + Damage Type Stat)d10
 >When invisible, a hunter cannot be targeted by any enemy that is more than 12 meters away from him. 
 >### Lead Elixir
 >A heavy and dense liquid, it shifts the hunter`s weight to allow for higher deflection of attacks, however slowing movement. Increases your Guard Level by 20 for 3 rounds, but you cannot use movement actions to move. 
+>### Antidotes
+>Removes any poison, rapid or slow, buildup on the poison bar.
 >### Sedative
 >Thick human blood altered to calm the senses. It makes any Sanity Roll automatically succeed once used.
 >### Dried Clathrus Archeri

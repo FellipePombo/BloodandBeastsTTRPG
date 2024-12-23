@@ -44,7 +44,7 @@ Damage Dice: d6  <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 10 meters | x2 | 0 | 4 adjacent enemies |--| 1 |
+| Shot | BLT| 10 meters | x2 | 0 | 4 adjacent enemies |Blood| 1 |
 
 >#### Flamesprayer ![Flamesprayer](../assets/images/weapons/radiantswordhunter/flamesprayer.png)
 >Used by Healing Church hunters. Uses quicksilver bullets to spit searing fire. Useful against beasts.<br><br>

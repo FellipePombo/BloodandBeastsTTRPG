@@ -42,4 +42,4 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- | --- |
-| Shot | BLT| 10 meters | 19/x3 | 0 | 1 enemy |--| 2 |
+| Shot | BLT| 10 meters | 19/x3 | 0 | 1 enemy |Blood| 2 |
