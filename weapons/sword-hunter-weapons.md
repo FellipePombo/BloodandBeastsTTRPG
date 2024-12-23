@@ -21,7 +21,6 @@
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Sweep | STR | 1 meter | x2 | +SKL | 2 adjacent enemies| Righteous |
-| Strike | STR | 1 meter | x2 | +SKL | 1 enemy | Righteous |
 | Pierce | STR | 2 meter | x3 | 0 | 1 enemy | Righteous |
 | Charged Pierce | STR | 2 meter | x2 | 0 | 1 enemy | Righteous |
 | Switch Smash | STR | 1 meter | x3 | +STR | 1 enemy | Righteous|
