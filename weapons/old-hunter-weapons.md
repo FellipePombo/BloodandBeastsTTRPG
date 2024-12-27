@@ -41,7 +41,7 @@
 
 
 >#### Beast Claw ![Beast Claw](../assets/images/weapons/oldhunter/beastclaw.png)
->Wielded by the Knights of Cainhurst, it combines an elegant knightly sword with a peculiar fiream. <br><br>
+>Beastly weapon wielded by Irreverent Izzy,  the darkbeast bones chiseled and fastened to the weapon are still alive, granting the wielder beastly power when unleashed. As blood sprays on the bones and flesh is flayed, the weapon revels in strength and reverie.<br><br>
 
 >Buffs can be applied. <br><br>
 
