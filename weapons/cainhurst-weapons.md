@@ -36,7 +36,7 @@
 | --- | --- | --- |--- |--- |--- |--- |
 | Cut | BLT | 1 meter | x2 | +BLT | 2 adjacent enemies| Blood, Rapid Poison:2 |
 | Unsheath | BLT | 1 meter | x4 | 0 | 3 adjacent enemies | Blood, Rapid Poison:3, Strong: +2|
-| Charged Unsheath| BLT | 1 meter | x4 | +BLT | 3 adjacent enemies  Blood, Rapid Poison:3, Strong: +3 |
+| Charged Unsheath| BLT | 1 meter | x4 | +BLT | 3 adjacent enemies | Blood, Rapid Poison:3, Strong: +3 |
 | Pierce| BLT | 2 meters | x2 | +BLT | 1 enemy | Blood, Rapid Poison:1 |
 | Switch Cut| BLT | 1 meter | x3 | +BLT | 2 adjacent enemies | Blood, Rapid Poison:2 |
 
