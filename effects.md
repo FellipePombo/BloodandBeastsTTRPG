@@ -19,7 +19,7 @@
 >This effect adds a certain amount of dice from the weapons damage dice to the attack damage.
 
 >## Chain
->This effect allows for the hunter to bypass the ACC roll for the next attack.
+>This effect allows for the hunter to bypass the ACC roll for the next attack, 1d20 must be rolled to account for criticals, if it lands on a 20 the damage of the next attack will multiply.
 
 >## Fast
 >This effect allows the attack to be performed as a movement action, instead of a regular one.
@@ -31,13 +31,14 @@
 >Grants the hunter an extra free movement action after performed.
 
 >## Scourge
->Each dice in a Attack Damage roll (only SKL or STR dice) that results in a value higher or equal to 10 - BTH is considered a Scourge Dice. In the next Attack Damage roll done by the hunter, the damage will be:<br><br>
+>Each dice in a Attack Damage roll (only for damage rolls calculated by SKL,STR or BTH) that results in a value higher or equal to 10 - BTH is considered a Scourge Dice. In the next Attack Damage roll done by the hunter, the damage will be:<br><br>
 Hunter Damage = Attack Damage + (Scourge Dice)d10 <br><br>
 Scourge Dice stack until the effect remains, however if the hunter takes damage, the damage suffered will be: <br><br>
-Damage taken = Damage of enemy attack + (Scourge Dice)d6
+Damage taken = Damage of enemy attack + (Scourge Dice)d6 <br><br>
+The hunter will lose 1 + (Insight) Scourge dice per round.
 
 >## Scourge Affinity
-> This effect reduces the value required for each dice to count as scourge dice by a certain amount.. 
+> This effect reduces the value required for each dice to count as scourge dice by a certain amount. 
 
 >## Precise
 >This effect increases the ACC roll for parrying by a set amount.

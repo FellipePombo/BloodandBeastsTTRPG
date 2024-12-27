@@ -47,7 +47,7 @@ Level 5: peak marksmanship and excellent combat prowess.
 >### Skill (SKL) ![Skill Icon](assets/images/attributes/skill.jpg)
 
 >This statistic represents your hunter`s skill in battle, specially when using skill-based weapons. It also defines your reaction time.<br> <br>
-Attributes influenced by Skill: Initiative, Visceral Damage and Defense,Rapid Poison Bar.<br> <br>
+Attributes influenced by Skill: Initiative, Visceral Damage and Defense,Rapid Poison Bar, Parry Level.<br> <br>
 Level 1: the skill it takes to cut a piece of meat to grill.<br> <br>
 Level 3: capacity to cut the proper artheries and joints in order to incapacitate an opponent.<br> <br>
 Level 5: every strike is planned, a lethal movement heading towards the inevitable end of the beast being dismantled.
@@ -65,6 +65,10 @@ Visceral Damage = (SKL)d12 x4
 
 >#### Rapid Poison Bar (RP)
 >Rapid Poison Bar = 0/((END+SKL)*5)
+
+>#### Parry Level
+Determines how hard you are to parry:
+Parry Level = (SKL+ACC)*10
 
 >### Strength (STR) ![Strength Icon](assets/images/attributes/strength.jpg)
 
@@ -142,22 +146,18 @@ When a hunter gains Insight with an empty Beast Point bar, they will have the Be
 >### Beasthood (BTH) ![Beasthood Icon](assets/images/attributes/beasthood.jpg)
 
 >This represents how much your hunter has embranced the beast within, heeding the call of the old blood.
-Attributes influenced by Beasthood: Beast Damage, Beast Points.<br> <br>
+Attributes influenced by Beasthood: Scourge Effect, Beast Points.<br> <br>
 Level 1: you thirst for the old blood, but you can contain yourself.<br> <br>
 Level 3: the blood calls to you, it makes all the pain go away, more blood. <br> <br>
 Level 5: there is only blood and where is blood are the beasts, scurrying away shyly to drink it out of the corpse filled floor, fear the old blood.
 
->#### Beast Damage (BD)
-
->Once the hunter has any Beast Point, they can willingly choose to do Beast Damage instead of the regular type of damage from their weapon, by allowing the beast to push through temporarily. This however triggers a Beast Roll the hunter must resist, lest they lose control.<br> <br>
-Beast Damage = Attack Damage + (BTH)d10
 
 >#### Beast Points (BP)
 
 >Beast Points = 0/10<br> <br>
 Most hunters start with no Beast Points, but as the beast creeps in, they turn.<br> <br> 
 For each Beast Point possessed, the hunter can spend an additional Stamina Point (SP) per round.<br> <br>
-Should they choose to do Beast Damage, they must perform a Beast Roll:<br> <br>
-Beast Roll = (Beast Points)d10<br> <br>
+Should they choose to spend an additional Stamina Point, they must perform a Beast Roll:<br> <br>
+Beast Roll = (Beast Points + BTH)d10<br> <br>
 Afterwards, they must resist the Beast Roll with a Sanity Roll, should the Sanity Roll be inferior, the Beast will take over for one round and another Beast Point will be added.<br> <br>
 If a hunter gains a Beast Point with their Insight Meter empty, their Insight Maximum will be permanently reduced by 1.

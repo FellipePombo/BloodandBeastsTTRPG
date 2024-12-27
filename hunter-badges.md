@@ -22,4 +22,4 @@
 
 ## [Cainhurst Badge](weapons/cainhurst-weapons.md) ![Cainhurst Badge](assets/images/weapons/badges/cainhurst.png)
 
-[Old Hunter Badge]
+## [Old Hunter Badge](weapons/old-hunter-weapons.md) ![Old Hunter Badge](assets/images/weapons/badges/oldhunter.png)

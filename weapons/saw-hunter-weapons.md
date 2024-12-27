@@ -94,14 +94,14 @@ Damage Dice: d6 <br><br>
 | Side Strike | SKL | 1 meter | x2 | 0 | 1 enemy | Righteous|
 | Pierce | SKL | 2 meters | x2 | 0 | 1 enemy | Righteous|
 | Charged Pierce | SKL | 2 meters | x2 | +SKL | 1 enemy | Righteous|
-| Switch Head Swing | SKL | 4 meters | x3 | +SKL | 1 enemy | Righteous|
+| Switch Head Swing | SKL | 5 meters | x3 | +SKL | 1 enemy | Righteous|
 
 >Whip Form: <br><br>
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | SKL | 4 meters | x2 | +SKL | 6 adjacent enemies| Serrated |
-| Piercing Swing | SKL | 4 meters | x3 | +SKL | 1 enemy |Serrated|
+| Sweep | SKL | 5 meters | x2 | +SKL | 6 adjacent enemies| Serrated |
+| Piercing Swing | SKL | 5 meters | x3 | +SKL | 1 enemy |Serrated|
 
 
 
