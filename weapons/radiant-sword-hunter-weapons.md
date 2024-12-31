@@ -31,9 +31,9 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
-| Sweep | STR | 3 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR, Strong:+1d10, Righteous, Scourge Affinity: -2|
+| Sweep | STR | 3 meters | x2 | +STR | 4 adjacent enemies| Stagger: -STR, Strong:+1, Righteous, Scourge Affinity: -2|
 | Smash | STR | 3 meters | x3 | 0 | 1 enemy |Stagger: -STR, Strong:+2, Righteous|
-| Charged Pierce| STR | 4 meters | x3 | +STR | 1 enemy |Strong:+2, Righteous|
+| Charged Pierce| STR | 4 meters | x3 | +STR | 2 enemies in line |Strong:+2, Righteous|
 
 
 >#### Ludwig`s Rifle ![Ludwig Rifle](../assets/images/weapons/radiantswordhunter/ludwigsrifle.png)

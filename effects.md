@@ -10,7 +10,7 @@
 >This effect increases the health healed from rallying with the attack performed by a set amount.
 
 >## Righteous
->This effect makes it so the hunter attacking has a 50% chance to have 1 beast point reduced after killing a beast with the attack. The hunter must roll a 1d10, if the value is greater than 5, 1 beast point is reduced.
+>This effect adds 2d10 damage to any attack done against Vileblood type enemies.
 
 >## Serrated
 >This effect adds 2d10 damage to any attack done against beasts.
@@ -35,7 +35,9 @@
 Hunter Damage = Attack Damage + (Scourge Dice)d10 <br><br>
 Scourge Dice stack until the effect remains, however if the hunter takes damage, the damage suffered will be: <br><br>
 Damage taken = Damage of enemy attack + (Scourge Dice)d6 <br><br>
-The hunter will lose 1 + (Insight) Scourge dice per round.
+The hunter will lose 2 + (Insight) Scourge dice per round.<br><br>
+All scourge dice are lost once the effect seizes. <br><br>
+If the hunter gets no new Scourge Dice after 5 rounds, all dice are lost and the effect seizes naturally. 
 
 >## Scourge Affinity
 > This effect reduces the value required for each dice to count as scourge dice by a certain amount. 
@@ -66,6 +68,9 @@ The hunter will lose 1 + (Insight) Scourge dice per round.
 
 >## Knockback
 >Sends the enemies flying across the map in the direction of the attack for a certain distance. If the enemies hit a solid object or wall they take 1d6 extra damage.
+
+>## Move
+> Causes the hunter to move a certain distance after the attack in the direction of the attack.
 
 >## Martyr
 >This effect is exclusive to the [Logarius Wheel](weapons/wheel-hunter-weapons.md#logarius-wheel-logarius-wheel), it adds +1 to the critical multiplier of every hit, this increase stacks with every martyr effect stacked. <br><br>

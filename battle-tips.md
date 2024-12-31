@@ -17,6 +17,7 @@ Hunters can also trade their regular action for two more movement actions.
 >Attack<br><br>
 Activate Hunter Tool<br><br>
 Blood Communion
+Charge Strong Attack<br><br>
 >#### Movement Action
 >A quick swift action that can be intertwined with other actions in combat.
 A hunter can use a movement action to move about 6 meters in distance.
@@ -24,14 +25,12 @@ A hunter can use a movement action to move about 6 meters in distance.
 >Use Buff (Fire Paper, Bolt Paper, Bone Marrow Ash) <br><br>
 Use Throwables (Molotovs, Pungent Blood Cocktail) <br><br>
 Use Vial of Blood<br><br>
-Charge Strong Attack<br><br>
 Parry <br><br>
 Transform Trick Weapon
 >#### Free Action
 >A highly accessible action from any point in engaged combat.
 >##### Examples of Free Actions:
 >Communication<br><br>
-Transforming Trick Weapon<br><br>
 Perform Visceral Attack
 >#### Attack
 >Hunters attack to destroy the beasts and render their foes broken.<br><br>
@@ -42,11 +41,13 @@ The weapons damage dice determines what kind of dice are used to calculate the d
 <br><br>
 Before the damage can be calculated however an ACC roll needs to be done to see if the attack hits. 
 If it hits, the damage is then calculated accordingly.<br><br>
+For each enemy targeted, a different ACC roll must be performed. <br><br>
+The damage is calculated with a different damage roll for each enemy hit. <br><br>
 If 1 dice is a 20 in the roll, that is considered a critical hit. Criticals hit automatically and multiply the damage based on the multiplier of the attack performed.<br><br> 
 Each weapon has a multitude of attacks that can have different types, ranges, multipliers, modifiers and effects.<br><br>
 Multipliers determine how much you should multiply the damage in case of a critical, multipliers can also contain a value next to them, such as: (19/2x), this indicates a lowering in the value needed for a critical to hit, in this case any dice above 19 would constitute a critical.
 Modifiers add a regular value to the ACC roll, while the range determines how close the hunter has to be to his foe in order to perform the attack.<br><br>
-Effects can cause specific effects on foes that are hit. The Stagger effect reduces the guard level of the foe by a certain value once the foe is hit, increasing the chances of the hunter breaking his opponent guard. Other effects such as bolt, serrated, fire, can stun, inflict lasting damage or increase damage against certain enemy types amongst other possibilities.
+Effects can cause specific effects on foes that are hit. The Stagger effect reduces the guard level of the foe by a certain value once the foe is hit, increasing the chances of the hunter breaking his opponent guard. Other effects such as bolt, serrated, fire, can increase damage against certain enemy types amongst other possibilities.
 
 >#### Activate Hunter Tool
 >Hunter Tools are objects infused with the Arcane and eldritch. Hunters can activate the innate power in these objects to access eldritch powers. Doing so however comes with a cost.<br><br>
@@ -58,6 +59,9 @@ Hunter Tools use up quicksilver bullets, some more than others.
 For each 5 HP spent, the hunter can perform one Blood Communion roll to heal his comrade. However his fellow hunter shall resist the temptation with a Blood Drunkeness roll that must be resisted by a Sanity Roll. <br><br>
 A hunter can perform one Blood Communion roll per round, however he can perform three extra Blood Communion rolls in between rounds, however leaving him and his fellow hunter exposed. If the one receiving blood moves or attacks in that meantime, the Blood Communion is interrupted.<br><br>
 If a hunter is hit while giving blood, his guard is automatically broken.
+>#### Charge Strong Attack
+>Charging a strong attack adds 2 dice of the weapons damage dice to the next attack damage performed regardless of stats.<br><br>
+However in order to perform a charged attack a hunter needs to use all of his round, not being able to perform any other actions besides the charged attack.
 >#### Use Buff
 >Buffs increase damage in weapons against certain enemies or apply effects temporarily to certain weapons. Buffs can last a certain amount of rounds or last for a certain amount of strikes. 
 >#### Use Throwables
@@ -69,9 +73,6 @@ The damage caused by area of effect is always cut in half.
 >Hunters can partake in the old blood to heal themselves in battle. <br><br>
 Vials of Blood have their own BLT associated, which varies depending on their source.<br><br>
 One vial of Blood always heals (1d10 + BLT from the Blood), an per each vial used the hunter must do a Blood Drunkeness Roll to be resisted by a Sanity Roll.
->#### Charge Strong Attack
->Charging a strong attack adds 2 dice of the weapons damage dice to the next attack damage performed regardless of stats.<br><br>
-However in order to perform a charged attack a hunter needs to use all of his round, not being able to perform any other actions besides the charged attack.
 >#### Parry
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
 This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack and a firearm. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
