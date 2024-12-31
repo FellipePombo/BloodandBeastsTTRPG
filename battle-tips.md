@@ -51,8 +51,8 @@ Effects can cause specific effects on foes that are hit. The Stagger effect redu
 
 >#### Activate Hunter Tool
 >Hunter Tools are objects infused with the Arcane and eldritch. Hunters can activate the innate power in these objects to access eldritch powers. Doing so however comes with a cost.<br><br>
-If the hunter tool causes any damage it will always be calculated by an Arcane roll. Hunters dont have to roll ACC to inflict hunter tool damage.<br><br>
-Whenever the hunter activates a hunter tool, a Insight roll must be performed and then resisted by a Sanity Roll.<br><br>
+Hunters dont have to roll ACC to inflict hunter tool damage, if the tool triggers an attack.<br><br>
+Some hunter tools require a Insight roll to be performed and then resisted by a Sanity Roll.<br><br>
 Hunter Tools use up quicksilver bullets, some more than others.
 >#### Blood Communion
 >The hunter can give his blood to others in order to heal them.<br><br>
@@ -75,7 +75,7 @@ Vials of Blood have their own BLT associated, which varies depending on their so
 One vial of Blood always heals (1d10 + BLT from the Blood), an per each vial used the hunter must do a Blood Drunkeness Roll to be resisted by a Sanity Roll.
 >#### Parry
 >When a hunter sees an enemy about to perform an attack against him, the Hunter can perform a parry. <br><br>
-This movement action counts as a ranged attack, requiring an ACC roll to hit the Parry level from the enemys attack and a firearm. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
+This movement action counts as a ranged attack, using an attack of the hunters firearm, requiring an ACC roll to hit the Parry level from the enemys attack and a firearm. The Parry level in enemies attack however tends to be different from the enemies DEF, sometimes being higher to achieve. <br><br>
 If the hunters ACC roll succeeds, the attack from the foe interrupts, breaking his guard imediately, leaving him open for a visceral attack or double the damage in the next attack. <br><br>
 If the roll fails to hit the parry level but succeeds in hitting the enemies DEF, the damage is calculated but the enemies guard isnt broken.<br><br>
 Parries are usually performed with firearms that have Shot attacks, however it can also be performed by right-handed weapons that have Shot attacks, as long as the attack can be performed as a movement action.
