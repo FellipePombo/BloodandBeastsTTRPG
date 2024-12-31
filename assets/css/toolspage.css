@@ -1,0 +1,33 @@
+body{
+    background: url(../images/pagebackground.png);
+    background-attachment: fixed;
+    color: #fff;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+blockquote{
+    background-color: rgba(0,0,0,0.75);
+    display:block;
+    align-self: center;
+    justify-content: center;
+}
+h4 img{
+    width: 100px;
+}
+
+h2 img{
+    width: 100px;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+
+}
+
+th, td{
+    border: 1px solid;
+
+}
