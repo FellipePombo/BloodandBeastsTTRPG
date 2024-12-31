@@ -54,8 +54,8 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect | Bullet Cost|
 | --- | --- | --- |--- |--- |--- |--- |--- |
-| Thrust | SKL | 4 meters | x2 | +SKL | 1 enemy|-- | 0 |
-| Charged Thrust | SKL | 6 meters | x3 | +SKL | 1 enemy | --| 0 |
+| Thrust | SKL | 4 meters | x2 | +SKL | 4 enemies in line|-- | 0 |
+| Charged Thrust | SKL | 6 meters | x3 | +SKL | 4 enemies in line | Knockback: 3 meters, Move: 2 meters| 0 |
 | Swing | SKL | 3 meters | x2 | 0 | 2 adjacent enemies| --| 0 |
 | Shot | BLT | 6 meters | x2 | 0 | 4 adjacent enemies| Fast, Blood| 1 |
 | Switch Swipe | SKL | 4 meters | x3 | 0 | 6 adjacent enemies| --| 0 |

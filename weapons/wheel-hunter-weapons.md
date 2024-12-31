@@ -35,7 +35,7 @@
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect
 | --- | --- | --- |--- |--- |--- |--- |
 | Smash | ARC | 1 meter | x2 | +STR | 1 enemy|Arcane, Strong:+1, Righteous,Stagger: -STR|
-| Swing | ARC | 1 meter | x2 | 0 | 1 enemy |Stagger: -STR to enemy guard, Strong:+2, Righteous, Arcane|
+| Swing | ARC | 1 meter | x2 | 0 | 1 enemy |Stagger: -STR, Strong:+2, Righteous, Arcane|
 | Charged Smash| ARC | 1 meter | x3 | +STR | 1 enemy |Strong:+3, Righteous, Arcane, Stagger: -STR|
 | Switch Downpour| ARC | 3 meters | x2 | -- | 6 adjacent enemies | Righteous, Arcane|
 | Spin Imbue| -- | -- |--| -- | -- |Martyr|

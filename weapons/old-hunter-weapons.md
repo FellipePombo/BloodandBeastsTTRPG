@@ -61,6 +61,6 @@
 
 >| Attacks |Type  | Range | Multiplier | Modifier |Area of Effect|Effect |
 | --- | --- | --- |--- |--- |--- |--- |
-| Slash | BTH | 1 meter | x3 | +BTH | 2 adjacent enemies |Chain, Fast, Scourge, Scourge Affinity: -3|
-|Pound| BTH | 1 meter | x3 | +BTH | 1 enemy |Scourge, Scourge Affinity: -3, Knockback: 2 meters|
+| Slash | BTH | 1 meter | x3 | +BTH | 2 adjacent enemies |Fast, Scourge, Scourge Affinity: -3|
+|Pound| BTH | 1 meter | x3 | +BTH | 1 enemy |Scourge, Scourge Affinity: -3, Knockback: 2 meters, Strong: +2|
 |Charged Smash| BTH | 1 meter | x3 | +BTH | 1 enemy |Scourge, Scourge Affinity: -3, Knockback: 2 meters, Stagger: -BTH, Strong: +2|
