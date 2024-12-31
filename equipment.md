@@ -4,6 +4,8 @@
 
 [Trick Weapons and Firearms](hunter-badges.md)
 
+[Hunter Tools](hunter-tools.md)
+
 [Effects](effects.md)
 
 
