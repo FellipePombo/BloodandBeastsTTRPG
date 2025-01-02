@@ -8,7 +8,6 @@
 >### Beast Blood Pellet
 >Beast Blood Pellets are composed of coagulated old beast blood. The beastly scourge present concentrates into a fine substance capable of temporarily triggering the beast inside. The intensity of the beastly power of the hunter increases with each strike as they cover themselves in blood. <br><br>
 Beast Blood Pellets imbue your attacks with the Scourge effect for 3 rounds. <br><br>
-After the effect wears off, the hunter must do a Scourge Roll = (Scourge Dice)d10 that must be resisted by a Sanity Roll. Should they fail to resist, they will gain one Beast Point.
 >### Fire Paper
 >Coarse paper that coats your weapon in fire when used. Adds 20 fire damage to your attack. Lasts 4 rounds.
 >#### Fire Damage
